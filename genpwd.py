@@ -2,6 +2,16 @@ import os
 import sys
 import itertools
 
+""" 
+Educational purpose only             
+
+-------------------------------------------
+I'm not responsible for your actions 
+-------------------------------------------
+Created By: EH
+"""
+
+
 if sys.platform == "linux" or sys.platform == "linux2":
     os.system("clear")
 
